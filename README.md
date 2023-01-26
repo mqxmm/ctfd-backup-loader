@@ -3,7 +3,7 @@
 <b>ctfd-backup.py</b><br>
 This python script makes auto-saving of CTFd Backup to the specified directory.<br>
 
-<b>script.sh</b>
+<b>script.sh</b><br>
 This bash command to execute ctf-backup.py.
 
 ## Installing:
