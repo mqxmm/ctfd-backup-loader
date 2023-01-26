@@ -23,3 +23,5 @@ Write in <b>crontab</b> (crontab -e) to save ctf-backup.zip every 15 min:
 ```bash
 crontab
 ```
+
+source: https://github.com/rexyfahrezi/ctfd-auto-backup
