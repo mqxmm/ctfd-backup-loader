@@ -8,9 +8,7 @@ This bash command to execute ctf-backup.py.
 
 ## Installing:
 ```bash
-pip install bs4
-pip install requests
-pip install wget
+pip install -r requirements.txt
 ```
 
 
