@@ -23,7 +23,7 @@ nonce = soup.find("input",{"name":"nonce"})['value']
 
 data = {
   'name': 'ADMINLOGIN',
-  'password': 'YOURPASSWORD',
+  'password': 'ADMINPASSWORD',
   '_submit': 'Submit',
   'nonce': nonce
 }
